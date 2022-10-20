@@ -13,5 +13,5 @@ Dejamos dos espacios para los saltos de lina
 Sinó queda asi  
 Esto es un salto de linea  
 Para poner un comentario podemos usar  
-[//]: <> Esto no lo puedes ver  
-# H1 [comment]: <>
+[comment]: <Esto no lo puedes ver> 
+# H1 [comment]: <Esto es un comentario con encabezado>
