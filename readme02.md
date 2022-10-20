@@ -51,7 +51,7 @@ Contenido 2
 ---
 Contenido 3
 ___  
-[![La imagen no se ha podido mostrar](https://user-images.githubusercontent.com/32896437/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Baile de la película Pulp Fiction")]  
+![La imagen no se ha podido mostrar](https://user-images.githubusercontent.com/32896437/153675215-dff3448c-56bc-4da0-9cf1-6a394fd9c6f8.png "Baile de la película Pulp Fiction")  
 [![Imagen con enlace](https://www.google.es/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](www.google.es)  
 ``` html
 <!DOCTYPE html>
@@ -78,4 +78,4 @@ Phasellus nec libero nisi. Phasellus dignissim quam ac nunc pharetra vehicula. C
 |2. Row| left | nicely | right  |
 |3. Row| aligned | centered | aligned  |  
 ## Y para finalizar
-| :exclamation:  Esto es todo amigos   |
+:exclamation:  Esto es todo amigos   
